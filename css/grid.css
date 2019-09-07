@@ -4,7 +4,7 @@ html {
 }
 
 body{
-  font-family: 'Merriweather', serif;
+  font-family: 'Averta', serif;
 }
 
 *,
@@ -14,7 +14,7 @@ body{
 }
 
 .container {
-  font-family: 'Merriweather', serif;
+  font-family: 'Averta', serif;
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
@@ -23,7 +23,7 @@ body{
 }
 
 .container-fluid {
-  font-family: 'Merriweather', serif;
+  font-family: 'Averta', serif;
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
